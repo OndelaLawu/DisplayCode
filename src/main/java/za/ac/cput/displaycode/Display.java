@@ -23,6 +23,11 @@ This is the main method
        String obj3 = "Ondela";
        String obj4 = "Ondela";
 
+/**
+Print method
+*/
+
+
        System.out.println("Display" + obj1 + 0bj2 + obj3 + obj4);
     }
        
