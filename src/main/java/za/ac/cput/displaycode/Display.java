@@ -7,7 +7,10 @@ package za.ac.cput.displaycode;
  */
 public class Display {
 
- 
+ /**
+Displays object
+*/
+
     public static void main(String[] args){
 
        String obj1 = "";
