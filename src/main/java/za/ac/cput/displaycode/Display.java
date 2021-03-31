@@ -13,6 +13,11 @@ Displays charactor object
 
     public static void main(String[] args){
 
+
+/**
+This is the main method
+*/
+
        String obj1 = "JUnit";
        String obj2 = "JUnit";
        String obj3 = "Ondela";
