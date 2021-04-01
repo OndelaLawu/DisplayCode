@@ -8,15 +8,27 @@ package za.ac.cput.displaycode;
 public class Display {
 
  /**
-Displays object
+Displays charactor object
 */
 
     public static void main(String[] args){
 
-       String obj1 = "";
-       String obj2 = "";
 
-       System.out.println("Display" + obj1 + 0bj2);
+/**
+This is the main method
+*/
+
+       String obj1 = "JUnit";
+       String obj2 = "JUnit";
+       String obj3 = "Ondela";
+       String obj4 = "Ondela";
+
+/**
+Print method
+*/
+
+
+       System.out.println("Display" + obj1 + 0bj2 + obj3 + obj4);
     }
        
 }
